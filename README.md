@@ -13,7 +13,6 @@ Build instructions:
 ``` bash
 $ git clone https://github.com/muhelen/ionic4-wordpress-app.git
 $ cd ionic4-wordpress-app
-$ npm start
 $ ionic serve
 ```
 
