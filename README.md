@@ -8,7 +8,15 @@ A simple app build with Ionic v4.
 - Search through all posts
 - Pagination
 
-`npm start` to try it out
+Build instructions:
+
+``` bash
+$ git clone https://github.com/muhelen/ionic4-wordpress-app.git
+$ cd ionic4-wordpress-app
+$ npm start
+$ ionic serve
+```
+
 
 change the `mainUrl` variable in `src/app/services/wordpress.service.ts`
 
